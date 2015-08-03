@@ -1,0 +1,3 @@
+[submodule "ffhb-logo"]
+	path = ffhb-logo
+	url = git@github.com:FreifunkBremen/logo.git
